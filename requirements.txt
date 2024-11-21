@@ -1,0 +1,9 @@
+torch
+easyocr
+ultralytics
+opencv-python
+scipy
+numpy
+pandas
+ast
+
